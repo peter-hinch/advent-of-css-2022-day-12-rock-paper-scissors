@@ -7,4 +7,37 @@ body {
   align-items: center;
   height: 100vh;
   font-family: 'Roboto Mono', monospace;
+  text-transform: lowercase;
+}
+
+section#game .game__commentary {
+  text-align: center;
+  margin-bottom: 76px;
+}
+
+section#game #game__selection-screen #selection-screen__options {
+  display: flex;
+  flex-direction: row;
+  gap: 75px;
+}
+
+section#game #game__selection-screen #selection-screen__options button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 315px;
+  height: 355px;
+  text-transform: lowercase;
+  background: transparent;
+  border: 2px solid #000;
+  border-radius: 0;
+}
+
+section#game #game__selection-screen #selection-screen__options button img {
+  height: 250px;
+}
+
+section#game #game__selection-screen #selection-screen__options button:hover {
+  border: 10px solid #ffb800;
 }
