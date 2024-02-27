@@ -20,6 +20,8 @@ Please feel free to check out my other Advent of CSS repos:
 - [Day 10 - Verification Code](https://github.com/peter-hinch/advent-of-css-2022-day-10-verification-code)
 - [Day 11 - Expander / Collapser](https://github.com/peter-hinch/advent-of-css-2022-day-11-expander-collapser)
 - Day 12 - Rock, Paper, Scissors
+- [Day 13 - Custom Modal](https://github.com/peter-hinch/advent-of-css-2022-day-13-custom-modal)
+- [Day 14 - Calendar Picker](https://github.com/peter-hinch/advent-of-css-day-14-calendar-picker)
 
 I have also participated in Advent of JS. You can check out these repos, here:
 
